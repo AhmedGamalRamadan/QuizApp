@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_play.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/QuizApp/app/src/main/res/layout/activity_result.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/QuizApp/app/src/main/res/layout/correct_answer.xml" value="0.15555555555555556" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/QuizApp/app/src/main/res/layout/time_over.xml" value="0.2074074074074074" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/QuizApp/app/src/main/res/layout/wrong_answer.xml" value="0.20210970464135022" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
